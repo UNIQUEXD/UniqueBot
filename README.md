@@ -1,4 +1,4 @@
-# IndianBot
+# UNIQUEBot
 
 For any query or want to know how it works join
 # https://t.me/IndianArMyGiveaway
@@ -14,7 +14,7 @@ For any query or want to know how it works join
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/indianbhaiya/IndianBot
+git clone https://github.com/UNIQUE_XD/UNIQUEBOT
 cd Indianbot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
