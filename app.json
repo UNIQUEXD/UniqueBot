@@ -1,6 +1,6 @@
 {
   "name": "IndianBot",
-  "description": "Userbot created by a IndianBhai and join https://t.me/IndianArMyGiveaway for any problems or support",
+  "description": "Userbot created by a IndianBhai and improved by Unique_xD and join https://t.me/IndianArMyGiveaway for any problems or support",
   "logo": "",
     "keywords": [
     "telegram",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/indianbhaiya/IndianBot/",
+  "repository": "https://github.com/UNIQUEXD/UniqueBot/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
